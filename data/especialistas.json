@@ -1,0 +1,12 @@
+{
+    "data_especialistas": {
+        "5": {
+            "especialista": "5",
+            "nombre_apellido": "5",
+            "correo_electronico": "5",
+            "telefono": 5,
+            "consultorio": 5,
+            "horario": "5"
+        }
+    }
+}

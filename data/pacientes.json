@@ -1,0 +1,19 @@
+{
+    "data_pacientes": {},
+    "6": {
+        "nombre_apellido": "6",
+        "correo_electronico": "6",
+        "telefono": 6,
+        "fecha_nacimiento": "6",
+        "edad": 6,
+        "genero": "6"
+    },
+    "2": {
+        "nombre_apellido": "2",
+        "correo_electronico": "2",
+        "telefono": 23,
+        "fecha_nacimiento": "2",
+        "edad": 2,
+        "genero": "2"
+    }
+}
